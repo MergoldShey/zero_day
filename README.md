@@ -1,1 +1,1 @@
-This file is mandatory in projects
+The command 'uname' prints basic information about the operating system name, system node name, operatversion and processor type.
